@@ -20,5 +20,4 @@ How to use
 1. Clone git repository to your computer 
 2. Create a virtual environment (optional) 
 3. Install packages from requirements.txt 
-4. Make setup correcting conf.py file 
-5. Run script articles_search.py
+4. Run script main.py

@@ -1,5 +1,5 @@
 # Homework-Mazars
-the link for the video ( run of the code): https://www.loom.com/share/1590ee34787b4d19b41ef70dc8c38d47
+The link for the video ( run of the code): https://www.loom.com/share/1590ee34787b4d19b41ef70dc8c38d47
 
 The robot is used to automate the process of https://www.semanticscholar.org/ literature collection for the user-defined topic. Result of the process is an email with attached excel with info about each found article.
 
@@ -16,8 +16,4 @@ Algorithm
 4. Robot scraps article's info and downloads source docs if available 
 5. Robot writes all info to excel and sends email 
 
-How to use
-1. Clone git repository to your computer 
-2. Create a virtual environment (optional) 
-3. Install packages from requirements.txt 
-4. Run script main.py
+

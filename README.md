@@ -1,4 +1,4 @@
-# Homework-Mazars
+# Literature collection for the user-defined topic
 The link for the video ( run of the code): https://www.loom.com/share/1590ee34787b4d19b41ef70dc8c38d47
 
 The robot is used to automate the process of https://www.semanticscholar.org/ literature collection for the user-defined topic. Result of the process is an email with attached excel with info about each found article.
